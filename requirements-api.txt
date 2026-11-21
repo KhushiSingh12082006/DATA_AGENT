@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pandas
+pyarrow
+python-dotenv
+psycopg2-binary
+requests
+langgraph
+langchain-core
+langchain-groq

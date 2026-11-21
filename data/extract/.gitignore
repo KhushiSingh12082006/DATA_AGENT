@@ -1,0 +1,32 @@
+
+.env
+.env.*
+history.db
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# API keys and environment variables
+.env
+.env.*
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated CSV files
+data/extract/*.csv
+data/transform/*.csv
+
+# Logs
+*.log
+
+# Node.js dependencies
+node_modules/
